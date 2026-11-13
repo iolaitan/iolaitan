@@ -1,16 +1,43 @@
-## Hi there 👋
+## My Data & Engineering Portfolio
 
-<!--
-**iolaitan/iolaitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data & Engineering Portfolio. This repository showcases practical projects demonstrating my ability to work with data across the full analytics and data engineering lifecycle — from data ingestion and transformation to analysis, visualisation and business decision-making.
 
-Here are some ideas to get you started:
+My focus is on building reliable, maintainable data solutions that turn raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, developing automated solutions and building systems that make information more reliable and useful for business decisions.
+
+## Engineering Approach
+
+Across these projects, I aim to demonstrate the following principles:
+
+**Reproducibility:** Projects can be executed using documented instructions.
+
+**Data Quality:** Data is checked for missing values, duplicates and invalid records.
+
+**Maintainability:** Code is organised into reusable scripts and models.
+
+**Testing:** Data transformations and key assumptions are validated.
+
+**Documentation:** Business logic, technical decisions and project architecture are clearly explained.
+
+**Business Value:** Technical outputs are connected to practical business questions.
+
+
+## Featured Projects
+
+* Retail Sales Intelligence Dashboard
+* Automated Data Pipeline
+* A/B Testing Analysis
+
+## Contact
+
+**LinkedIn**: https://www.linkedin.com/in/itunu-olaitan/
+
+**Email**: itunuola@icloud.com
+
+**Location**: London, United Kingdom
+
+**Turning data into meaningful business decisions.**
+
+*This portfolio is continuously evolving as I develop my technical skills and build more practical data and engineering solutions.*
+
