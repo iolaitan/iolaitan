@@ -4,8 +4,6 @@ Welcome to my Data & Engineering Portfolio. This repository showcases practical 
 
 My focus is on building reliable, maintainable data solutions that turn raw data into meaningful business insights.
 
-I enjoy working with data, developing automated solutions and building systems that make information more reliable and useful for business decisions.
-
 ## Engineering Approach
 
 Across these projects, I aim to demonstrate the following principles:
